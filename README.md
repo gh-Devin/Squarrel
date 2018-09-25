@@ -1,6 +1,7 @@
 ## Squarrel
 Squarrel is a lightweight web disk system based on Python.
 Squarrel是一个基于Python实现的轻量级的网盘系统。
+![squarrel_home](http://pfebqz1oc.bkt.clouddn.com/squarrel_home.png)
 
 
 目前实现的功能：
